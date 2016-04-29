@@ -20,7 +20,7 @@ workspace_path=~/Desktop/Dianjimall/XDJMallStandard/XDJMallStandard
 CODE_SIGN_IDENTITY=" iPhone Distribution: Xiamen Xin Click Network Polytron Technologies Inc "
  
 # 打包使用的描述文件 这描述文件的名字不是自己命名的那个名字，而是对应的8b11ac11-xxxx-xxxx-xxxx-b022665db452这个名字
-PROVISIONING_PROFILE="9c421035-5cb6-4c82-9e72-0808db139206"
+PROVISIONING_PROFILE="xxx"
  
 # 指定yeemiao.app的输出位置 也就是Demo中build文件夹的位置
 build_path=~/Desktop/appOutSide
